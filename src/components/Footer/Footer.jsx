@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import { FaFacebook,FaInstagram,FaPhone,FaTelegram,FaGoogle } from 'react-icons/fa'
 import { FaMapLocation } from 'react-icons/fa6'
